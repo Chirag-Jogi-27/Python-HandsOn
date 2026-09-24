@@ -1,0 +1,3 @@
+Line 1: Server started
+Line 2: Database connected
+Line 3: API running
